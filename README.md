@@ -1,1 +1,2 @@
 # STFATool
+STFATool is a professional signal-processing application implemented in Python. It integrates several state-of-the-art sparse time–frequency analysis algorithms, including Synchroextracting Transform, Transient-Extracting Transform, Multisynchrosqueezing Transform, and Time-Reassigned Multisynchrosqueezing Transform. It provides an user-friendly interface, users can import signals for detailed time–frequency feature visualization and processing, enabling efficient extraction of critical signal characteristics.
